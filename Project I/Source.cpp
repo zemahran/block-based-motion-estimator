@@ -229,7 +229,6 @@ int main()
 	imshow("Residual Frame", Residual);
 	waitKey(0);
 
-	_getch();
 	waitKey(0);
 	return 0;
 }
