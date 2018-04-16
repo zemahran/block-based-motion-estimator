@@ -12,4 +12,4 @@ The second frame is used to generate a prediction (residual frame and motion vec
 
 1. Clone the repo.
 2. In Visual Studio, open the project solution named "Project I".
-3. Build and run the "Source.cpp"
+3. Build and run the "Source.cpp" file.
