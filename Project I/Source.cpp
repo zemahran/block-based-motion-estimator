@@ -230,5 +230,6 @@ int main()
 	waitKey(0);
 
 	waitKey(0);
+	_getch();
 	return 0;
 }
