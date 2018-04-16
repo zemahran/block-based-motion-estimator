@@ -10,6 +10,7 @@ The second frame is used to generate a prediction (residual frame and motion vec
 
 ### Testing
 
-1. Clone the repo.
+1. Clone the repo or download the `.zip` file.
+> https://github.com/zemahran/block-based-motion-estimator.git
 2. In Visual Studio, open the project solution named "Project I".
 3. Build and run the "Source.cpp" file.
